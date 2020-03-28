@@ -1,0 +1,7 @@
+{
+  "name": "foremica",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
